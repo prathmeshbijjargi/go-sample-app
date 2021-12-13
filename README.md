@@ -1,4 +1,4 @@
-# go-sample-app
+# Go-Sample-app
 
 # Razorpay Test App for GO
 Sample App for Razorpay GO Integration
